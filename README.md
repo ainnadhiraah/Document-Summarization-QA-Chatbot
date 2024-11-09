@@ -26,10 +26,6 @@
   <li>Pip (Python package manager)</li>
 </ul>
 
-<h2>Clone the Repository</h2>
-<br>To clone this repository, use the following command:
-<br><p>git clone https://github.com/yourusername/document-summarization-chatbot.git</p>
-
 <h2>Install Dependencies</h2>
 Install the required Python libraries using pip:
 <br>pip install -r requirements.txt
